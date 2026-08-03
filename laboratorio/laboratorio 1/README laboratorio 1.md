@@ -1,5 +1,16 @@
 # Laboratorio 01 (02/2026) — Clasificación de imágenes con MLP
 
+**Estudiante:** Luis Fernando Quispe Sullca  
+**Materia:** Inteligencia Artificial II (IA 2)  
+**Semestre:** 02/2026  
+**Universidad:** Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca (USFX)  
+
+---
+
+### Recursos y Enlaces
+* **Video explicativo:** [Ver en YouTube](https://youtu.be/BZU83q32I2I) (`https://youtu.be/BZU83q32I2I`)
+* **Dataset:** [Caltech-256 en Kaggle](https://www.kaggle.com/datasets/jessicali9530/caltech256) (`https://www.kaggle.com/datasets/jessicali9530/caltech256`)
+
 Materia de Redes Neuronales — USFX. Cuadernillo construido a partir de `06_optimization`,
 `07_receta_entrenamiento` y `08_metricas_clasificacion` (revisados el semestre anterior), aplicando
 todo el flujo de trabajo a un dataset de imágenes propio con un modelo **MLP puro (sin capas
@@ -204,9 +215,8 @@ implementación.
 ## 10. Estructura del proyecto
 
 ```
-09_lab_caltech256_mlp.ipynb   # Cuadernillo completo (Google Colab)
-README.md                     # Este documento
-guion_video.md                 # Guion para el video explicativo (≤ 2:30 min)
+laboratorio 1.ipynb   # Cuadernillo completo (Google Colab)
+README laboratorio 1 .md                     
 ```
 
 ## 11. Cómo ejecutar
